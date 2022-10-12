@@ -1,9 +1,9 @@
 .DS_Store
-.env*
+# .env*
 .flaskenv
 *.pyc
 *.pyo
-env/
+# env/
 # env*
 dist/
 build/
